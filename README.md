@@ -1,2 +1,2 @@
 # ha-younes72.github.io
-<a target="_blank" href="https://ha-younes72.github.io/"> My Personal Website </a>
+<a href="https://ha-younes72.github.io/" target="_blank" rel="noopener noreferrer"> My Personal Website </a>
